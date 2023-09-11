@@ -3,3 +3,4 @@
 # automation
 # madlib-cli
 # madlib-cli
+# django-snacks
